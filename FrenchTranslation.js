@@ -4,7 +4,7 @@ const translations = {
     fr: {
       global: {
         dwains_dashboard_settings: 'Paramètres Dwains Dashboard',
-        enable_edit_mode: 'Activer le mode d/'édition',
+        enable_edit_mode: 'Activer le mode d\'édition',
         disable_edit_mode: 'Désactiver le mode d\'édition',
         version: 'Version',
         disable_clock: 'Cacher l\'horloge',
